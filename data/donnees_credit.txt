@@ -1,0 +1,469 @@
+Typeclient	Age du client	Situation familiale	Anciennete	Domiciliation du salaire	Domiciliation de lepargne	Profession	Moyenne en cours	Moyenne des mouvements	Cumul des debits	Autorisation de decouvert	Interdiction de chequier
+bon	plus de 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	veuf	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+bon	de 23 a 40 ans	divorce	anc. de 1 a 4 ans	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	moins de 10KF epargn	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. de 4 a 6 ans	non dimicile salaire	moins de 10KF epargn	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+bon	plus de 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+bon	plus de 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 1 a 4 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+bon	de 23 a 40 ans	marie	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	cadre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	marie	anc. de 1 a 4 ans	domicile salaire	de 10 a 100KF epargn	profession autre	plus de 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. plus 12 ans	domicile salaire	plus de 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	plus de 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	cadre	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	divorce	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	profession autre	plus de 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	plus de 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. de 1 a 4 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	divorce	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	profession autre	plus de 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	plus de 100KF epargn	profession autre	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. plus 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert autorise	chequier interdit
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	moins de 10KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	profession autre	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	veuf	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+bon	plus de 50 ans	veuf	anc. plus 12 ans	domicile salaire	pas depargne	cadre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert autorise	chequier interdit
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	plus de 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	divorce	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	marie	anc. de 4 a 6 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	plus de 100KF epargn	profession autre	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	moins de 10KF epargn	cadre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	moins de 10KF epargn	profession autre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	profession autre	moins de 2KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	profession autre	plus de 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	moins de 10KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	de 10 a 100KF epargn	profession autre	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	veuf	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	non dimicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	plus de 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	plus de 50 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	marie	anc. de 4 a 6 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	de 10 a 100KF epargn	profession autre	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+bon	de 40 a 50 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	profession autre	plus de 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	divorce	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	veuf	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	plus de 50 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 1 a 4 ans	domicile salaire	moins de 10KF epargn	profession autre	plus de 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	veuf	anc. de 4 a 6 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	divorce	anc. de 1 a 4 ans	domicile salaire	pas depargne	profession autre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	non dimicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	moins de 10KF epargn	profession autre	plus de 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier interdit
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	divorce	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	plus de 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+bon	moins de 23 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier interdit
+bon	moins de 23 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. de 1 a 4 ans	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	divorce	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	moins de 2KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	divorce	anc. 1 an ou moins	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+bon	moins de 23 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	plus de 50 ans	marie	anc. 1 an ou moins	domicile salaire	de 10 a 100KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 40 a 50 ans	marie	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+bon	de 23 a 40 ans	marie	anc. de 4 a 6 ans	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. plus 12 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier interdit
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier interdit
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier interdit
+mauvais	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+mauvais	plus de 50 ans	veuf	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier interdit
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier interdit
+mauvais	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	marie	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. de 4 a 6 ans	non dimicile salaire	moins de 10KF epargn	profession autre	plus de 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	cadre	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	divorce	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. plus 12 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	moins de 10KF epargn	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	veuf	anc. 1 an ou moins	non dimicile salaire	moins de 10KF epargn	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	cadre	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier interdit
+mauvais	de 40 a 50 ans	divorce	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 6 a 12 ans	domicile salaire	de 10 a 100KF epargn	employe	plus de 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	moins de 10KF epargn	cadre	plus de 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	moins de 2KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier interdit
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 6 a 12 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. de 4 a 6 ans	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	divorce	anc. de 1 a 4 ans	domicile salaire	moins de 10KF epargn	employe	plus de 5 KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	moins de 2KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	moins de 2KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. de 1 a 4 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	de 10 a 30KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	cadre	moins de 2KF encours	de 10 a 30KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. de 4 a 6 ans	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	moins de 2KF encours	moins 10 KF mouvt	plus de 100 debits	decouvert autorise	chequier interdit
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	moins de 10KF epargn	profession autre	de 2 a 5 KF encours	plus de 50KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	moins de 2KF encours	de 30 a 50KF mouvt	plus de 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier interdit
+mauvais	de 23 a 40 ans	divorce	anc. 1 an ou moins	non dimicile salaire	pas depargne	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	non dimicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert interdit	chequier interdit
+mauvais	moins de 23 ans	celibataire	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	veuf	anc. plus 12 ans	domicile salaire	moins de 10KF epargn	cadre	de 2 a 5 KF encours	de 30 a 50KF mouvt	de 40 a 100 debits	decouvert interdit	chequier autorise
+mauvais	de 23 a 40 ans	celibataire	anc. 1 an ou moins	domicile salaire	moins de 10KF epargn	employe	moins de 2KF encours	moins 10 KF mouvt	de 40 a 100 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier interdit
+mauvais	plus de 50 ans	marie	anc. 1 an ou moins	non dimicile salaire	pas depargne	employe	de 2 a 5 KF encours	moins 10 KF mouvt	moins de 40 debits	decouvert autorise	chequier autorise
+mauvais	plus de 50 ans	marie	anc. plus 12 ans	domicile salaire	pas depargne	cadre	de 2 a 5 KF encours	plus de 50KF mouvt	plus de 100 debits	decouvert interdit	chequier autorise
+mauvais	de 40 a 50 ans	marie	anc. 1 an ou moins	domicile salaire	pas depargne	profession autre	de 2 a 5 KF encours	de 30 a 50KF mouvt	moins de 40 debits	decouvert interdit	chequier autorise
