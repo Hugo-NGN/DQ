@@ -8,6 +8,31 @@ data['X'] <- NULL
 # Check the structure of the data
 str(data)
 
+################################  CRAMER  ####################################
+cat_cols <- names(data)[sapply(data, is.factor)]
+
+# Calculer la V de Cramer pour toutes les paires de colonnes
+cramer_matrix <- matrix(NA, length(cat_cols), length(cat_cols), dimnames = list(cat_cols, cat_cols))
+
+for (i in 1:length(cat_cols)) {
+  for (j in 1:length(cat_cols)) {
+    if (i != j) {
+      cramer_matrix[i, j] <- cramerV(table(data[[cat_cols[i]]], data[[cat_cols[j]]]))
+    } else {
+      cramer_matrix[i, j] <- NA  # Diagonale vide
+    }
+  }
+}
+
+# Afficher la matrice des coefficients de V de Cramer
+print(cramer_matrix)
+
+
+################################################################################
+
+
+
+
 # Ensure 'y' is a factor
 data$y <- as.factor(data$y)
 
