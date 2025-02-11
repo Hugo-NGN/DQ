@@ -2,8 +2,9 @@ library(FactoMineR)
 library(factoextra)
 library(vcd)
 library(rcompanion)
-
-
+data_path <- paste(getwd(), "/data/bank-prepocessed-cleaned.csv",sep='')
+data <- read.csv(file = data_path, sep = ',')
+data['X'] <- NULL
 # Check the structure of the data
 str(data)
 
@@ -52,6 +53,7 @@ data$cluster <- as.factor(clusters)
 fviz_cluster(list(data = ind_coords, cluster = clusters))
 
 table(clusters, data$y)
+
 
 ##########################  A. DISCRI  ####################################
 
