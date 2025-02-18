@@ -137,6 +137,7 @@
 135,50+,retired,divorced,high.school,no,yes,no,cellular,jun,tue,1,0,yes
 136,30-40,admin.,married,university.degree,no,no,yes,telephone,may,wed,2,0,no
 137,30-40,admin.,married,university.degree,no,no,no,cellular,nov,mon,2,0,no
+138,30-40,technician,divorced,professional.course,no,no,no,telephone,may,wed,1,0,no
 139,50+,blue-collar,divorced,basic.4y,no,no,no,telephone,jun,wed,1,0,yes
 140,50+,technician,divorced,professional.course,no,yes,yes,cellular,jul,tue,14,0,no
 141,30-40,technician,divorced,professional.course,no,yes,no,cellular,nov,tue,1,0,no
@@ -183,6 +184,7 @@
 182,50+,technician,married,unknown,no,yes,no,telephone,jun,fri,3,0,no
 183,40-50,management,married,basic.4y,unknown,yes,no,telephone,may,fri,1,0,no
 184,50+,retired,married,high.school,no,no,no,cellular,may,mon,1,0,no
+185,40-50,management,married,university.degree,no,yes,no,cellular,may,thu,1,0,no
 186,40-50,admin.,married,high.school,no,yes,no,cellular,aug,fri,1,0,no
 187,40-50,blue-collar,married,basic.6y,no,yes,no,cellular,may,mon,3,1,yes
 188,50+,self-employed,married,high.school,no,no,no,cellular,aug,tue,3,0,no
@@ -253,6 +255,7 @@
 253,30-40,management,married,unknown,no,no,no,telephone,may,fri,3,0,no
 254,18-30,technician,single,university.degree,no,yes,yes,telephone,jun,mon,6,0,no
 255,18-30,management,married,university.degree,no,yes,yes,cellular,aug,tue,2,0,no
+256,40-50,admin.,married,high.school,no,no,no,telephone,may,wed,3,0,no
 257,50+,blue-collar,married,unknown,unknown,yes,no,telephone,may,tue,2,0,no
 258,18-30,admin.,single,high.school,no,yes,no,cellular,jul,wed,1,0,no
 259,30-40,self-employed,married,university.degree,no,yes,yes,cellular,aug,wed,2,0,no
@@ -365,6 +368,7 @@
 366,18-30,admin.,married,high.school,no,yes,no,cellular,may,wed,3,0,no
 367,50+,management,married,university.degree,unknown,yes,yes,cellular,aug,thu,1,0,no
 368,18-30,management,single,university.degree,no,yes,no,cellular,jul,tue,2,0,no
+369,30-40,blue-collar,married,basic.6y,no,yes,no,telephone,may,wed,1,0,no
 370,40-50,admin.,divorced,university.degree,unknown,no,no,cellular,aug,tue,2,0,no
 371,30-40,services,divorced,high.school,unknown,yes,no,cellular,may,thu,1,0,no
 372,40-50,unemployed,married,basic.4y,no,yes,no,cellular,aug,wed,2,0,no
@@ -428,6 +432,7 @@
 430,30-40,blue-collar,divorced,basic.9y,no,yes,no,cellular,jul,wed,3,0,no
 431,50+,blue-collar,married,basic.4y,unknown,yes,yes,cellular,may,wed,1,0,no
 432,50+,entrepreneur,married,university.degree,no,no,no,telephone,jul,wed,1,0,no
+433,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,thu,1,0,no
 434,18-30,admin.,single,university.degree,no,yes,no,cellular,aug,wed,1,0,no
 435,40-50,admin.,single,university.degree,no,yes,no,cellular,jul,thu,1,0,no
 436,30-40,management,married,university.degree,no,yes,no,cellular,nov,fri,1,1,no
@@ -436,6 +441,7 @@
 439,18-30,student,single,high.school,unknown,no,no,cellular,jul,tue,1,0,no
 440,40-50,management,married,university.degree,no,no,no,cellular,jul,mon,3,0,no
 441,50+,unemployed,married,basic.4y,no,yes,no,telephone,sep,tue,1,0,no
+442,40-50,admin.,married,high.school,no,yes,no,cellular,aug,fri,1,0,no
 443,40-50,blue-collar,married,basic.4y,no,no,yes,telephone,jun,tue,1,0,no
 444,40-50,admin.,married,high.school,no,no,no,cellular,aug,fri,1,0,no
 445,30-40,blue-collar,married,high.school,unknown,yes,no,telephone,may,mon,1,0,no
@@ -642,6 +648,7 @@
 646,30-40,blue-collar,married,unknown,no,no,no,cellular,nov,thu,4,0,no
 647,40-50,blue-collar,divorced,unknown,unknown,yes,no,cellular,jul,wed,1,0,no
 648,40-50,admin.,married,professional.course,no,yes,no,telephone,jun,thu,2,0,no
+649,40-50,blue-collar,married,high.school,no,yes,no,cellular,may,fri,1,0,no
 650,40-50,blue-collar,divorced,basic.9y,no,yes,no,cellular,may,thu,1,0,no
 651,40-50,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,mon,2,0,no
 652,40-50,entrepreneur,married,university.degree,no,yes,no,cellular,nov,tue,2,0,no
@@ -792,6 +799,7 @@
 797,18-30,admin.,single,university.degree,no,yes,no,cellular,jul,wed,1,2,no
 798,18-30,student,single,high.school,no,no,no,cellular,aug,thu,1,1,no
 799,40-50,blue-collar,married,basic.6y,no,yes,no,cellular,may,wed,1,0,no
+800,30-40,admin.,single,university.degree,no,yes,no,telephone,jun,wed,2,0,no
 801,18-30,admin.,married,university.degree,no,yes,yes,cellular,apr,mon,1,0,no
 802,40-50,housemaid,married,basic.4y,no,yes,no,cellular,may,wed,1,1,no
 803,50+,retired,married,high.school,no,unknown,unknown,telephone,aug,thu,2,0,no
@@ -912,6 +920,7 @@
 918,30-40,blue-collar,married,basic.9y,no,yes,yes,cellular,may,wed,1,1,no
 919,50+,self-employed,divorced,basic.9y,no,yes,no,cellular,nov,thu,5,1,no
 920,30-40,services,single,high.school,no,yes,no,cellular,may,thu,3,1,no
+921,30-40,admin.,married,high.school,no,yes,no,telephone,may,mon,4,0,no
 922,18-30,admin.,single,university.degree,no,no,no,cellular,may,wed,1,0,no
 923,40-50,technician,divorced,professional.course,no,no,no,cellular,aug,tue,1,0,no
 924,30-40,self-employed,single,professional.course,no,yes,no,telephone,may,mon,4,0,no
@@ -922,6 +931,7 @@
 929,40-50,blue-collar,married,basic.9y,unknown,no,no,telephone,jun,thu,2,0,no
 930,50+,blue-collar,married,basic.9y,unknown,yes,no,cellular,nov,tue,1,0,no
 931,18-30,admin.,married,high.school,unknown,no,no,cellular,jul,thu,3,0,no
+932,30-40,admin.,single,university.degree,no,yes,no,cellular,jul,fri,1,0,no
 933,30-40,services,divorced,high.school,no,yes,yes,cellular,nov,mon,1,0,no
 934,30-40,blue-collar,single,basic.9y,no,yes,no,telephone,sep,mon,1,0,no
 935,30-40,blue-collar,married,basic.9y,no,no,no,telephone,jul,tue,6,0,no
@@ -1012,6 +1022,7 @@
 1020,40-50,admin.,divorced,high.school,no,yes,no,cellular,nov,mon,1,0,no
 1021,30-40,admin.,single,high.school,no,yes,yes,cellular,may,tue,4,1,no
 1022,18-30,admin.,single,university.degree,no,no,no,cellular,may,mon,1,1,no
+1023,18-30,admin.,single,high.school,no,yes,no,cellular,jul,thu,1,0,no
 1024,40-50,technician,married,professional.course,no,yes,yes,cellular,may,thu,2,0,no
 1025,40-50,admin.,divorced,university.degree,no,yes,no,telephone,may,mon,2,0,no
 1026,40-50,entrepreneur,married,university.degree,no,yes,no,cellular,nov,fri,2,0,no
@@ -1027,6 +1038,7 @@
 1036,30-40,blue-collar,married,high.school,unknown,no,no,telephone,may,wed,4,0,no
 1037,40-50,blue-collar,single,professional.course,no,no,no,telephone,jun,thu,1,0,no
 1038,40-50,entrepreneur,married,basic.9y,unknown,yes,no,telephone,may,tue,1,0,no
+1039,30-40,services,married,high.school,no,unknown,unknown,cellular,may,thu,2,1,no
 1040,18-30,services,single,high.school,no,yes,yes,cellular,apr,thu,2,0,no
 1041,50+,services,married,high.school,unknown,no,no,cellular,may,fri,1,0,no
 1042,50+,management,married,basic.6y,no,no,no,telephone,jun,wed,3,0,no
@@ -1161,6 +1173,7 @@
 1171,30-40,blue-collar,divorced,unknown,no,no,no,telephone,jun,fri,1,0,no
 1172,18-30,services,married,high.school,unknown,yes,no,cellular,nov,thu,1,0,no
 1173,18-30,blue-collar,single,basic.4y,no,yes,no,cellular,may,fri,9,1,no
+1174,50+,management,married,university.degree,no,no,no,cellular,jul,tue,2,0,no
 1175,30-40,blue-collar,single,basic.9y,no,yes,yes,telephone,jun,thu,3,0,yes
 1176,30-40,admin.,married,high.school,unknown,yes,no,cellular,jul,tue,4,0,no
 1177,40-50,services,married,unknown,no,no,no,telephone,may,wed,2,0,no
@@ -1173,6 +1186,7 @@
 1184,30-40,blue-collar,married,basic.9y,no,no,no,cellular,may,tue,3,0,no
 1185,50+,admin.,married,unknown,no,yes,yes,cellular,nov,thu,3,0,no
 1186,30-40,self-employed,married,university.degree,no,no,no,cellular,aug,tue,2,0,no
+1187,40-50,technician,married,professional.course,no,yes,no,telephone,may,tue,1,0,no
 1188,50+,unemployed,married,basic.4y,unknown,yes,no,cellular,jul,thu,9,0,yes
 1189,50+,technician,married,university.degree,no,unknown,unknown,cellular,apr,thu,2,2,yes
 1190,50+,unemployed,married,professional.course,no,no,no,cellular,sep,fri,1,2,no
@@ -1376,9 +1390,11 @@
 1388,40-50,admin.,single,university.degree,no,yes,no,telephone,may,fri,1,0,no
 1389,30-40,technician,married,professional.course,no,yes,no,cellular,aug,mon,1,1,no
 1390,30-40,blue-collar,married,basic.6y,unknown,no,yes,telephone,jul,mon,3,0,no
+1391,50+,admin.,married,high.school,no,no,no,telephone,may,wed,2,0,no
 1392,40-50,admin.,divorced,university.degree,no,yes,no,telephone,jun,fri,3,0,yes
 1393,50+,management,married,university.degree,no,no,no,cellular,dec,thu,4,1,no
 1394,30-40,services,married,high.school,no,no,yes,cellular,apr,fri,1,1,no
+1395,30-40,management,married,university.degree,no,yes,no,cellular,may,wed,4,0,no
 1396,30-40,blue-collar,married,basic.9y,unknown,yes,no,telephone,jun,fri,2,0,no
 1397,30-40,admin.,married,high.school,no,yes,no,telephone,may,wed,2,0,no
 1398,30-40,technician,single,university.degree,no,yes,yes,cellular,nov,fri,1,0,no
@@ -1485,6 +1501,7 @@
 1499,30-40,admin.,married,high.school,unknown,yes,no,telephone,jun,fri,3,0,no
 1500,30-40,admin.,married,university.degree,no,yes,no,telephone,jun,thu,1,0,no
 1501,40-50,admin.,divorced,university.degree,no,yes,no,cellular,aug,wed,4,0,no
+1502,30-40,admin.,married,university.degree,no,yes,no,cellular,aug,thu,3,0,no
 1503,40-50,technician,divorced,high.school,no,yes,no,cellular,jul,thu,3,0,no
 1504,18-30,blue-collar,single,basic.9y,no,yes,no,cellular,jul,thu,2,0,no
 1505,18-30,blue-collar,single,basic.9y,no,no,no,telephone,jun,wed,11,0,no
@@ -1505,6 +1522,7 @@
 1520,30-40,blue-collar,married,basic.6y,unknown,no,no,telephone,may,fri,3,0,no
 1521,30-40,admin.,single,university.degree,no,yes,yes,telephone,jul,thu,8,0,no
 1522,30-40,admin.,divorced,basic.9y,no,yes,no,cellular,jul,mon,3,0,no
+1523,30-40,services,married,high.school,no,no,no,telephone,may,tue,1,0,no
 1524,50+,technician,married,university.degree,unknown,yes,no,cellular,jul,wed,1,0,no
 1525,18-30,admin.,single,university.degree,no,no,no,cellular,aug,thu,1,1,no
 1526,30-40,services,married,high.school,no,yes,no,cellular,jul,mon,2,0,no
@@ -1539,6 +1557,7 @@
 1555,30-40,technician,married,professional.course,no,yes,no,telephone,jun,tue,3,0,no
 1556,50+,blue-collar,divorced,basic.4y,unknown,no,no,telephone,may,wed,4,0,no
 1557,40-50,blue-collar,married,basic.9y,unknown,no,no,telephone,may,tue,2,0,no
+1558,30-40,admin.,single,high.school,no,no,no,cellular,apr,fri,1,0,no
 1559,40-50,admin.,married,university.degree,no,no,yes,cellular,aug,fri,7,0,no
 1560,40-50,admin.,divorced,unknown,no,yes,no,cellular,may,wed,6,0,no
 1561,30-40,management,single,university.degree,no,no,no,cellular,jul,thu,2,0,no
@@ -1546,6 +1565,7 @@
 1563,40-50,blue-collar,married,high.school,unknown,no,no,telephone,jun,wed,2,0,no
 1564,30-40,admin.,married,university.degree,unknown,yes,no,telephone,may,mon,1,0,no
 1565,30-40,admin.,single,university.degree,no,yes,no,telephone,jul,mon,2,0,no
+1566,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,thu,1,0,no
 1567,30-40,blue-collar,single,basic.4y,no,yes,no,telephone,jun,fri,8,0,no
 1568,30-40,admin.,divorced,university.degree,no,no,no,cellular,may,mon,3,0,no
 1569,30-40,admin.,married,high.school,no,no,no,cellular,may,thu,1,0,no
@@ -1614,6 +1634,7 @@
 1632,18-30,admin.,married,university.degree,no,no,yes,cellular,jun,tue,3,1,yes
 1633,30-40,blue-collar,married,basic.9y,unknown,yes,no,cellular,may,mon,2,0,no
 1634,50+,blue-collar,married,basic.4y,no,no,no,cellular,jul,wed,2,0,no
+1635,40-50,technician,married,professional.course,no,no,no,telephone,may,fri,2,0,no
 1636,18-30,self-employed,single,university.degree,no,no,no,cellular,may,wed,1,0,no
 1637,30-40,technician,divorced,professional.course,no,yes,no,cellular,aug,mon,2,0,no
 1638,40-50,entrepreneur,married,basic.4y,unknown,yes,no,telephone,jul,thu,2,0,no
@@ -1683,6 +1704,7 @@
 1702,30-40,blue-collar,married,basic.6y,no,yes,no,cellular,jul,mon,1,0,no
 1703,30-40,admin.,single,university.degree,no,yes,no,telephone,jun,tue,1,0,no
 1704,40-50,admin.,married,university.degree,no,yes,no,cellular,aug,wed,4,0,no
+1705,30-40,management,married,university.degree,no,yes,no,cellular,nov,thu,1,0,no
 1706,40-50,blue-collar,married,professional.course,no,no,no,telephone,may,wed,1,0,no
 1707,30-40,admin.,single,high.school,unknown,no,no,telephone,may,thu,2,0,no
 1708,40-50,entrepreneur,married,professional.course,no,no,no,telephone,may,tue,2,0,no
@@ -1706,6 +1728,7 @@
 1726,18-30,admin.,married,university.degree,unknown,yes,no,cellular,aug,mon,2,0,no
 1727,50+,retired,married,professional.course,no,yes,no,cellular,aug,thu,3,0,no
 1728,30-40,admin.,single,basic.9y,no,yes,no,cellular,jul,thu,2,0,no
+1729,30-40,blue-collar,married,basic.9y,no,no,no,telephone,jun,mon,1,0,no
 1730,50+,entrepreneur,married,university.degree,no,yes,no,telephone,jun,wed,2,0,no
 1731,50+,management,married,high.school,no,yes,no,cellular,may,mon,3,0,no
 1732,30-40,admin.,single,unknown,no,no,no,cellular,jul,tue,1,0,no
@@ -1717,6 +1740,7 @@
 1738,30-40,admin.,single,high.school,no,yes,no,cellular,jul,tue,2,0,no
 1739,30-40,housemaid,married,high.school,unknown,yes,no,cellular,aug,thu,1,0,no
 1740,18-30,technician,single,university.degree,unknown,yes,no,cellular,aug,thu,1,0,no
+1741,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,thu,1,0,no
 1742,40-50,technician,single,university.degree,no,yes,no,cellular,jul,thu,1,0,no
 1743,30-40,blue-collar,single,basic.9y,no,yes,no,cellular,jul,mon,3,0,no
 1744,40-50,blue-collar,married,unknown,unknown,no,no,telephone,may,tue,1,0,yes
@@ -1785,6 +1809,7 @@
 1807,50+,retired,single,basic.4y,no,yes,no,telephone,jun,thu,1,0,no
 1808,40-50,services,divorced,basic.4y,unknown,no,no,cellular,jul,wed,6,0,no
 1809,50+,services,divorced,high.school,unknown,no,no,telephone,may,fri,2,0,no
+1810,30-40,admin.,married,university.degree,no,yes,yes,cellular,aug,fri,1,0,no
 1811,30-40,admin.,divorced,high.school,no,yes,yes,cellular,jul,mon,10,0,no
 1812,50+,entrepreneur,married,university.degree,unknown,no,no,telephone,may,thu,1,0,no
 1813,30-40,self-employed,single,university.degree,no,no,no,cellular,dec,wed,1,0,yes
@@ -1817,6 +1842,7 @@
 1840,30-40,admin.,married,university.degree,no,yes,no,telephone,jun,tue,11,0,no
 1841,50+,housemaid,married,basic.4y,unknown,no,no,cellular,jul,tue,1,0,no
 1842,30-40,services,married,high.school,no,no,no,cellular,apr,mon,3,1,no
+1843,30-40,management,married,university.degree,no,yes,no,cellular,nov,wed,2,0,no
 1844,40-50,admin.,divorced,high.school,no,yes,no,cellular,may,tue,4,1,no
 1845,40-50,blue-collar,married,unknown,no,yes,yes,cellular,apr,fri,1,0,no
 1846,30-40,self-employed,single,university.degree,no,no,yes,cellular,jun,mon,1,4,yes
@@ -1892,6 +1918,7 @@
 1916,50+,management,divorced,university.degree,no,yes,no,cellular,nov,mon,1,1,no
 1917,30-40,admin.,married,basic.6y,unknown,no,no,cellular,jul,wed,1,0,yes
 1918,50+,retired,single,professional.course,unknown,yes,no,cellular,jul,fri,4,0,no
+1919,30-40,technician,married,professional.course,no,no,no,cellular,aug,mon,1,0,no
 1920,30-40,admin.,married,university.degree,no,yes,no,cellular,aug,fri,10,0,no
 1921,50+,technician,married,professional.course,no,yes,no,telephone,sep,fri,1,0,no
 1922,30-40,blue-collar,married,professional.course,no,no,no,telephone,may,fri,2,0,no
@@ -1924,6 +1951,7 @@
 1949,40-50,technician,married,professional.course,no,yes,no,telephone,may,thu,1,0,no
 1950,30-40,admin.,married,high.school,no,yes,no,telephone,may,tue,4,0,no
 1951,50+,technician,married,professional.course,no,no,no,cellular,nov,thu,2,0,no
+1952,40-50,admin.,married,university.degree,no,yes,no,cellular,nov,mon,1,0,no
 1953,40-50,admin.,married,high.school,no,yes,yes,telephone,may,tue,1,0,no
 1954,50+,services,married,high.school,no,yes,no,telephone,nov,tue,1,0,no
 1955,18-30,services,single,high.school,no,no,no,cellular,aug,fri,1,0,no
@@ -1941,6 +1969,7 @@
 1967,50+,services,married,high.school,no,no,no,telephone,jun,tue,2,0,no
 1968,50+,admin.,married,high.school,no,yes,yes,cellular,may,fri,2,1,no
 1969,50+,technician,married,professional.course,no,no,no,cellular,nov,fri,1,1,no
+1970,30-40,admin.,single,university.degree,no,no,no,cellular,aug,mon,2,0,no
 1971,40-50,admin.,married,university.degree,no,yes,yes,telephone,jun,tue,1,0,no
 1972,18-30,blue-collar,married,high.school,no,no,no,telephone,jun,thu,13,0,no
 1973,30-40,blue-collar,married,professional.course,no,yes,no,telephone,may,tue,1,0,no
@@ -1976,9 +2005,11 @@
 2003,18-30,blue-collar,single,basic.4y,no,no,no,telephone,jun,wed,19,0,no
 2004,30-40,self-employed,married,university.degree,no,unknown,unknown,cellular,jul,fri,3,2,no
 2005,30-40,technician,married,high.school,no,yes,no,telephone,jun,tue,3,0,no
+2006,18-30,blue-collar,married,basic.4y,no,no,no,cellular,may,tue,1,0,no
 2007,18-30,blue-collar,single,basic.9y,no,yes,no,telephone,may,tue,4,0,no
 2008,30-40,services,divorced,basic.9y,no,yes,no,cellular,jul,wed,1,0,no
 2009,18-30,admin.,single,professional.course,no,no,yes,telephone,jun,thu,1,0,no
+2010,30-40,blue-collar,married,basic.9y,no,no,no,cellular,jul,wed,1,0,no
 2011,30-40,technician,single,university.degree,no,no,no,cellular,nov,tue,2,0,no
 2012,50+,retired,married,basic.4y,no,no,no,telephone,jun,wed,1,0,yes
 2013,40-50,technician,married,professional.course,no,no,no,telephone,may,tue,2,0,no
@@ -2029,6 +2060,7 @@
 2058,30-40,entrepreneur,married,basic.4y,unknown,yes,no,cellular,jul,wed,2,0,no
 2059,30-40,blue-collar,married,basic.9y,no,yes,no,telephone,jun,fri,3,0,no
 2060,30-40,technician,married,professional.course,no,yes,no,cellular,aug,wed,2,0,no
+2061,40-50,blue-collar,married,basic.4y,no,no,no,telephone,may,wed,1,0,no
 2062,18-30,blue-collar,married,high.school,no,yes,no,cellular,nov,wed,3,0,no
 2063,50+,blue-collar,married,basic.9y,no,yes,no,cellular,jul,tue,4,0,no
 2064,40-50,admin.,married,high.school,no,yes,no,cellular,aug,mon,3,0,yes
@@ -2050,6 +2082,7 @@
 2080,40-50,blue-collar,married,basic.9y,unknown,no,no,telephone,may,mon,1,0,no
 2081,18-30,services,single,university.degree,no,no,no,cellular,jul,thu,2,0,no
 2082,40-50,management,married,basic.9y,no,yes,no,cellular,may,tue,1,0,yes
+2083,18-30,blue-collar,single,basic.9y,no,yes,no,cellular,jul,fri,2,0,no
 2084,40-50,services,married,basic.9y,no,no,no,telephone,jun,thu,17,0,no
 2085,18-30,management,single,university.degree,no,no,no,telephone,may,wed,2,0,no
 2086,30-40,blue-collar,divorced,high.school,no,yes,no,telephone,jun,wed,1,0,no
@@ -2073,6 +2106,7 @@
 2104,18-30,admin.,married,high.school,unknown,no,no,cellular,jul,tue,3,0,no
 2105,18-30,technician,married,high.school,no,no,no,cellular,aug,tue,1,0,no
 2106,30-40,housemaid,married,basic.4y,no,yes,no,cellular,aug,mon,4,0,no
+2107,30-40,management,married,university.degree,no,yes,no,cellular,nov,wed,1,0,no
 2108,30-40,services,married,high.school,no,yes,no,cellular,may,thu,12,0,no
 2109,30-40,blue-collar,married,professional.course,no,no,no,telephone,may,mon,5,0,no
 2110,18-30,admin.,single,high.school,unknown,yes,yes,cellular,jul,thu,1,0,no
@@ -2084,6 +2118,7 @@
 2116,18-30,admin.,married,university.degree,no,no,no,cellular,nov,wed,3,0,no
 2117,30-40,unemployed,single,university.degree,no,yes,no,cellular,mar,tue,1,1,yes
 2118,50+,blue-collar,married,basic.4y,unknown,yes,no,cellular,jul,fri,4,0,no
+2119,30-40,technician,single,professional.course,no,yes,no,cellular,jul,thu,1,0,no
 2120,40-50,services,married,basic.4y,unknown,yes,no,cellular,aug,thu,1,0,no
 2121,40-50,blue-collar,married,professional.course,no,yes,no,cellular,may,fri,2,0,no
 2122,30-40,admin.,single,university.degree,no,no,yes,cellular,nov,wed,2,6,no
@@ -2247,6 +2282,7 @@
 2280,50+,blue-collar,divorced,basic.4y,unknown,yes,yes,cellular,may,mon,1,1,no
 2281,30-40,blue-collar,married,basic.9y,no,yes,no,telephone,may,mon,1,0,no
 2282,18-30,admin.,single,university.degree,no,no,no,telephone,aug,tue,3,0,no
+2283,30-40,technician,single,professional.course,no,yes,no,cellular,aug,tue,1,0,no
 2284,30-40,admin.,married,high.school,unknown,yes,no,cellular,jul,fri,1,0,no
 2285,40-50,management,married,university.degree,no,no,no,cellular,sep,thu,4,3,no
 2286,18-30,blue-collar,single,basic.9y,no,no,no,cellular,jul,fri,1,0,no
@@ -2261,6 +2297,7 @@
 2295,30-40,blue-collar,married,basic.9y,unknown,no,no,cellular,may,wed,1,0,no
 2296,30-40,blue-collar,married,basic.4y,no,no,no,cellular,nov,tue,1,1,no
 2297,18-30,technician,single,professional.course,no,yes,no,telephone,jun,wed,1,0,no
+2298,30-40,admin.,married,high.school,no,no,no,cellular,may,thu,1,0,no
 2299,30-40,management,single,university.degree,no,yes,yes,cellular,apr,wed,1,0,yes
 2300,30-40,self-employed,married,basic.4y,unknown,no,no,telephone,jun,thu,1,0,no
 2301,30-40,student,single,university.degree,no,yes,no,telephone,jun,wed,12,0,no
@@ -2326,6 +2363,7 @@
 2361,30-40,blue-collar,married,basic.9y,no,no,no,telephone,may,wed,1,0,no
 2362,30-40,technician,single,university.degree,no,yes,no,cellular,may,mon,2,0,no
 2363,40-50,services,divorced,basic.9y,no,unknown,unknown,cellular,may,thu,7,0,no
+2364,18-30,admin.,married,high.school,no,no,no,cellular,jul,wed,1,0,no
 2365,30-40,blue-collar,single,basic.4y,no,no,no,cellular,may,thu,1,0,no
 2366,50+,technician,married,professional.course,no,yes,yes,cellular,sep,mon,1,1,yes
 2367,40-50,technician,married,university.degree,no,no,no,cellular,aug,fri,1,0,no
@@ -2352,9 +2390,11 @@
 2388,30-40,technician,married,high.school,no,no,no,telephone,may,wed,3,0,no
 2389,40-50,technician,married,university.degree,unknown,no,no,telephone,jun,tue,1,0,no
 2390,30-40,admin.,married,high.school,no,no,no,cellular,may,mon,3,0,no
+2391,30-40,admin.,married,university.degree,no,yes,no,cellular,aug,tue,3,0,no
 2392,50+,management,married,university.degree,no,no,no,cellular,aug,mon,2,0,no
 2393,50+,retired,married,basic.9y,no,yes,no,cellular,jul,thu,1,0,no
 2394,50+,technician,married,professional.course,no,yes,no,cellular,nov,tue,2,0,no
+2395,30-40,technician,single,professional.course,no,no,no,cellular,aug,mon,1,0,no
 2396,40-50,admin.,married,basic.9y,unknown,no,no,telephone,may,thu,3,0,no
 2397,30-40,blue-collar,divorced,basic.4y,no,no,no,cellular,apr,fri,5,0,no
 2398,18-30,blue-collar,single,basic.9y,unknown,no,no,cellular,may,wed,3,0,no
@@ -2362,6 +2402,7 @@
 2400,50+,retired,married,professional.course,no,yes,no,telephone,jun,tue,8,0,no
 2401,18-30,admin.,single,high.school,unknown,yes,no,cellular,jul,fri,2,0,no
 2402,18-30,admin.,married,high.school,no,no,no,telephone,may,fri,1,0,no
+2403,40-50,admin.,divorced,high.school,no,yes,no,cellular,sep,tue,1,1,no
 2404,30-40,admin.,married,university.degree,no,no,yes,cellular,aug,tue,3,0,no
 2405,18-30,blue-collar,married,basic.6y,no,no,no,telephone,jun,tue,1,0,no
 2406,18-30,technician,single,university.degree,no,no,no,cellular,oct,wed,1,0,no
@@ -2418,6 +2459,7 @@
 2457,40-50,management,divorced,university.degree,no,yes,yes,cellular,aug,tue,1,0,no
 2458,50+,admin.,married,university.degree,no,no,no,telephone,jun,mon,3,0,no
 2459,50+,unemployed,married,university.degree,no,yes,no,cellular,nov,thu,2,0,no
+2460,40-50,technician,divorced,high.school,no,yes,no,cellular,jul,thu,1,0,no
 2461,40-50,admin.,married,basic.4y,unknown,yes,no,cellular,aug,tue,1,0,no
 2462,18-30,blue-collar,single,high.school,no,yes,yes,cellular,may,wed,1,0,no
 2463,40-50,blue-collar,married,unknown,no,no,no,telephone,may,tue,1,0,no
@@ -2444,6 +2486,7 @@
 2484,40-50,management,married,university.degree,unknown,yes,no,telephone,jul,mon,12,0,no
 2485,40-50,technician,married,high.school,no,yes,no,telephone,jun,fri,24,0,no
 2486,50+,blue-collar,married,professional.course,no,no,no,telephone,may,tue,3,0,no
+2487,40-50,services,married,high.school,no,yes,no,cellular,apr,mon,1,0,no
 2488,30-40,services,married,high.school,no,yes,no,cellular,may,thu,2,3,yes
 2489,50+,admin.,married,unknown,no,no,no,cellular,aug,thu,1,0,no
 2490,18-30,blue-collar,married,basic.6y,no,yes,no,cellular,may,thu,4,0,no
@@ -2481,6 +2524,7 @@
 2522,30-40,admin.,single,basic.4y,unknown,no,no,telephone,may,mon,3,0,no
 2523,40-50,technician,single,university.degree,no,yes,no,telephone,apr,fri,1,0,yes
 2524,18-30,admin.,single,university.degree,no,yes,no,cellular,aug,fri,1,2,no
+2525,18-30,blue-collar,married,basic.9y,no,yes,no,cellular,jul,mon,2,0,no
 2526,30-40,blue-collar,married,basic.6y,unknown,no,no,telephone,may,wed,3,1,no
 2527,40-50,blue-collar,single,high.school,unknown,yes,no,cellular,may,mon,7,0,no
 2528,40-50,admin.,divorced,high.school,no,yes,no,cellular,jun,mon,1,0,yes
@@ -2542,6 +2586,7 @@
 2584,30-40,blue-collar,married,unknown,no,no,no,telephone,may,wed,2,0,no
 2585,30-40,self-employed,married,university.degree,no,yes,yes,telephone,jun,mon,1,0,no
 2586,40-50,management,divorced,basic.9y,unknown,yes,no,telephone,jun,mon,2,0,no
+2587,30-40,blue-collar,married,basic.9y,no,yes,no,cellular,may,thu,1,0,no
 2588,30-40,technician,single,university.degree,no,yes,yes,cellular,aug,wed,2,0,no
 2589,40-50,blue-collar,married,high.school,unknown,yes,no,telephone,may,mon,3,0,no
 2590,18-30,management,single,university.degree,no,yes,no,cellular,may,fri,2,1,no
@@ -2565,6 +2610,7 @@
 2608,30-40,housemaid,married,basic.9y,no,yes,no,cellular,nov,fri,4,0,no
 2609,18-30,admin.,single,high.school,no,yes,no,cellular,jul,mon,3,0,no
 2610,30-40,admin.,single,university.degree,no,no,no,cellular,aug,thu,2,0,no
+2611,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,thu,1,0,no
 2612,40-50,management,married,university.degree,no,no,no,cellular,jul,thu,1,0,no
 2613,50+,management,married,professional.course,no,unknown,unknown,telephone,may,fri,2,0,no
 2614,50+,retired,divorced,university.degree,no,yes,no,telephone,may,mon,4,0,no
@@ -2584,6 +2630,7 @@
 2628,40-50,admin.,married,university.degree,no,no,no,cellular,nov,thu,2,0,no
 2629,18-30,student,single,high.school,no,no,no,cellular,oct,mon,1,0,yes
 2630,40-50,admin.,married,unknown,no,no,no,telephone,may,tue,1,0,no
+2631,30-40,blue-collar,married,basic.6y,no,yes,no,telephone,jul,wed,1,0,no
 2632,40-50,self-employed,married,university.degree,no,yes,no,telephone,may,mon,5,0,no
 2633,30-40,technician,married,professional.course,unknown,yes,no,telephone,may,thu,1,0,no
 2634,30-40,admin.,married,university.degree,no,no,no,telephone,jun,tue,2,0,no
@@ -2595,6 +2642,7 @@
 2640,30-40,technician,single,high.school,no,no,no,telephone,may,wed,1,0,no
 2641,18-30,services,single,high.school,no,yes,no,telephone,jun,wed,1,0,no
 2642,30-40,technician,single,professional.course,no,yes,yes,cellular,jul,thu,1,0,no
+2643,30-40,services,married,high.school,no,no,no,telephone,may,tue,1,0,no
 2644,40-50,services,married,unknown,no,no,yes,cellular,jun,mon,1,0,yes
 2645,30-40,services,single,university.degree,unknown,yes,no,cellular,nov,thu,3,0,no
 2646,50+,blue-collar,married,basic.4y,unknown,yes,no,cellular,jul,fri,1,0,no
@@ -2673,6 +2721,7 @@
 2719,40-50,blue-collar,married,basic.9y,unknown,unknown,unknown,cellular,may,tue,1,0,no
 2720,30-40,blue-collar,single,basic.9y,unknown,no,no,telephone,may,mon,1,0,no
 2721,40-50,services,married,high.school,no,yes,no,cellular,nov,tue,1,0,no
+2722,30-40,admin.,married,university.degree,no,yes,no,cellular,aug,tue,6,0,no
 2723,40-50,services,divorced,basic.4y,no,no,no,cellular,apr,thu,1,0,no
 2724,30-40,technician,married,professional.course,no,yes,no,cellular,sep,thu,2,0,no
 2725,50+,blue-collar,married,basic.4y,unknown,no,no,cellular,jun,wed,1,1,yes
@@ -2773,6 +2822,7 @@
 2820,18-30,blue-collar,single,unknown,no,no,no,cellular,jul,tue,3,0,no
 2821,30-40,admin.,married,high.school,unknown,no,no,cellular,jul,fri,1,0,no
 2822,18-30,admin.,single,university.degree,no,yes,no,cellular,aug,tue,3,0,no
+2823,30-40,technician,single,professional.course,no,no,no,cellular,aug,mon,2,0,no
 2824,40-50,blue-collar,married,basic.4y,unknown,yes,yes,telephone,nov,tue,3,1,no
 2825,40-50,admin.,married,university.degree,no,yes,yes,telephone,jun,wed,3,0,no
 2826,50+,admin.,married,professional.course,no,unknown,unknown,cellular,jul,mon,6,0,no
@@ -2801,15 +2851,18 @@
 2849,40-50,technician,married,professional.course,no,yes,no,cellular,aug,wed,7,0,no
 2850,18-30,student,single,professional.course,no,no,no,cellular,sep,mon,2,2,no
 2851,30-40,unknown,married,basic.9y,no,no,no,telephone,may,thu,4,0,no
+2852,30-40,admin.,single,university.degree,no,no,no,cellular,aug,wed,1,0,no
 2853,40-50,management,married,basic.9y,no,yes,no,telephone,jun,fri,4,0,no
 2854,18-30,services,married,high.school,no,no,yes,cellular,jul,fri,3,0,no
 2855,18-30,student,single,professional.course,no,no,no,cellular,jun,fri,2,0,no
+2856,30-40,admin.,married,university.degree,no,yes,no,cellular,nov,thu,1,0,no
 2857,18-30,technician,single,university.degree,no,yes,no,cellular,sep,thu,1,1,yes
 2858,40-50,blue-collar,married,basic.6y,no,yes,no,cellular,may,fri,1,0,no
 2859,18-30,services,single,high.school,no,yes,no,telephone,may,thu,1,0,no
 2860,18-30,services,single,basic.9y,no,yes,yes,cellular,may,fri,4,1,no
 2861,30-40,admin.,single,university.degree,no,yes,no,cellular,apr,tue,1,0,no
 2862,50+,management,married,university.degree,no,no,no,cellular,may,thu,1,4,yes
+2863,50+,housemaid,married,basic.6y,no,yes,no,cellular,aug,tue,1,0,no
 2864,18-30,student,single,university.degree,no,no,no,cellular,nov,fri,4,1,no
 2865,30-40,admin.,married,university.degree,no,no,no,telephone,may,fri,2,0,no
 2866,30-40,entrepreneur,married,high.school,no,no,no,telephone,jun,mon,3,0,no
@@ -2833,11 +2886,14 @@
 2884,40-50,technician,married,professional.course,no,yes,no,telephone,may,wed,1,0,no
 2885,50+,retired,married,university.degree,no,yes,no,cellular,aug,thu,1,1,no
 2886,50+,admin.,married,high.school,no,no,no,cellular,aug,wed,10,0,no
+2887,40-50,services,married,high.school,no,no,no,cellular,jul,thu,1,0,no
 2888,18-30,blue-collar,married,basic.4y,unknown,no,no,telephone,may,tue,9,0,no
 2889,50+,admin.,married,basic.9y,unknown,no,yes,telephone,may,thu,2,0,no
 2890,30-40,technician,single,university.degree,no,yes,no,cellular,aug,tue,2,0,no
 2891,18-30,technician,single,professional.course,no,no,yes,cellular,nov,fri,1,2,no
+2892,30-40,services,single,basic.9y,no,no,no,cellular,may,tue,1,0,no
 2893,18-30,services,married,high.school,no,yes,yes,telephone,jul,mon,9,0,no
+2894,18-30,admin.,single,high.school,no,yes,no,cellular,jul,wed,1,0,no
 2895,18-30,blue-collar,single,basic.9y,unknown,yes,no,cellular,nov,thu,2,0,no
 2896,18-30,admin.,single,high.school,no,yes,yes,cellular,may,fri,4,0,no
 2897,30-40,management,single,high.school,no,no,no,cellular,jul,mon,1,0,no
@@ -2895,6 +2951,7 @@
 2949,30-40,blue-collar,single,basic.4y,no,no,no,telephone,jun,thu,3,0,yes
 2950,18-30,admin.,single,university.degree,no,yes,no,cellular,jun,fri,2,1,yes
 2951,40-50,management,married,university.degree,no,no,no,telephone,sep,tue,1,0,no
+2952,30-40,services,married,high.school,unknown,yes,yes,telephone,jun,wed,2,0,no
 2953,30-40,blue-collar,married,basic.9y,unknown,yes,yes,telephone,may,tue,2,0,no
 2954,30-40,blue-collar,single,professional.course,no,no,no,cellular,aug,tue,11,0,no
 2955,50+,retired,married,professional.course,unknown,no,no,cellular,aug,mon,2,0,no
@@ -2925,7 +2982,9 @@
 2980,50+,retired,married,basic.9y,no,yes,no,telephone,oct,thu,1,0,no
 2981,40-50,blue-collar,single,high.school,no,no,yes,telephone,may,thu,1,0,no
 2982,40-50,technician,divorced,university.degree,no,yes,no,telephone,nov,thu,1,0,no
+2983,30-40,technician,married,professional.course,no,no,no,telephone,may,wed,2,0,no
 2984,50+,entrepreneur,married,university.degree,unknown,no,no,telephone,jun,fri,1,0,no
+2985,40-50,admin.,married,university.degree,no,yes,no,cellular,aug,wed,1,0,no
 2986,30-40,blue-collar,married,professional.course,no,no,no,telephone,may,thu,1,0,yes
 2987,30-40,technician,married,professional.course,no,yes,no,cellular,jul,wed,2,0,no
 2988,40-50,services,married,professional.course,no,yes,no,cellular,jul,mon,23,0,no
@@ -2951,10 +3010,12 @@
 3008,30-40,admin.,married,high.school,unknown,yes,yes,telephone,may,tue,1,0,no
 3009,30-40,technician,single,university.degree,no,yes,no,cellular,apr,thu,2,0,no
 3010,18-30,unemployed,single,university.degree,no,no,no,telephone,jul,tue,1,0,no
+3011,30-40,blue-collar,married,basic.9y,unknown,no,no,cellular,jul,thu,1,0,no
 3012,40-50,blue-collar,married,basic.9y,unknown,no,no,telephone,jun,thu,16,0,no
 3013,30-40,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,thu,3,0,no
 3014,40-50,services,single,unknown,no,yes,no,cellular,may,thu,3,0,no
 3015,30-40,blue-collar,married,unknown,no,no,no,telephone,may,tue,2,0,no
+3016,40-50,management,married,university.degree,no,no,no,cellular,nov,mon,1,0,no
 3017,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,wed,2,0,no
 3018,30-40,blue-collar,divorced,basic.9y,no,no,no,telephone,may,mon,1,0,no
 3019,30-40,technician,married,professional.course,no,no,no,cellular,aug,wed,4,0,no
@@ -2966,6 +3027,7 @@
 3025,40-50,admin.,married,high.school,unknown,no,no,cellular,aug,fri,4,0,no
 3026,50+,technician,married,professional.course,no,no,no,cellular,aug,wed,9,0,no
 3027,40-50,unemployed,married,professional.course,no,no,no,cellular,jul,thu,3,0,no
+3028,40-50,blue-collar,married,basic.4y,no,no,no,cellular,nov,thu,1,0,no
 3029,18-30,admin.,married,basic.9y,no,yes,no,telephone,jun,thu,1,0,no
 3030,40-50,management,married,basic.9y,no,no,no,cellular,may,tue,1,0,no
 3031,18-30,blue-collar,married,professional.course,no,no,no,cellular,may,fri,4,1,yes
@@ -2976,6 +3038,7 @@
 3036,30-40,blue-collar,married,unknown,no,no,no,telephone,may,tue,1,0,no
 3037,50+,retired,divorced,high.school,no,yes,no,cellular,oct,thu,1,0,yes
 3038,30-40,admin.,married,high.school,unknown,yes,no,telephone,may,wed,2,0,no
+3039,18-30,blue-collar,married,basic.9y,no,yes,no,cellular,jul,mon,2,0,no
 3040,40-50,blue-collar,married,basic.6y,no,yes,no,cellular,jul,mon,5,0,no
 3041,50+,admin.,married,high.school,no,no,no,cellular,may,tue,4,0,no
 3042,18-30,admin.,single,high.school,no,no,no,cellular,sep,fri,3,1,yes
@@ -2994,6 +3057,7 @@
 3055,40-50,admin.,married,high.school,no,yes,no,telephone,nov,fri,2,0,no
 3056,30-40,admin.,married,high.school,no,yes,yes,cellular,may,mon,1,0,no
 3057,30-40,blue-collar,married,basic.9y,no,yes,no,telephone,may,fri,1,0,no
+3058,40-50,blue-collar,married,basic.9y,unknown,no,no,telephone,may,mon,1,0,no
 3059,30-40,services,single,high.school,no,no,no,telephone,may,wed,2,0,no
 3060,18-30,admin.,divorced,university.degree,no,yes,no,cellular,aug,fri,9,0,no
 3061,30-40,admin.,married,high.school,no,yes,no,cellular,jul,thu,2,0,no
@@ -3024,6 +3088,7 @@
 3086,50+,admin.,married,university.degree,no,no,no,cellular,sep,thu,4,1,yes
 3087,50+,housemaid,divorced,basic.4y,no,no,no,telephone,may,wed,1,0,no
 3088,40-50,admin.,divorced,university.degree,no,yes,no,cellular,aug,mon,5,0,no
+3089,30-40,blue-collar,married,basic.9y,no,yes,no,cellular,may,thu,1,0,no
 3090,50+,admin.,married,university.degree,no,no,no,telephone,may,mon,14,0,no
 3091,50+,blue-collar,married,basic.9y,no,yes,no,cellular,nov,wed,2,1,no
 3092,18-30,blue-collar,single,high.school,no,yes,no,cellular,jul,wed,1,0,no
@@ -3066,10 +3131,13 @@
 3129,30-40,blue-collar,married,high.school,no,no,no,cellular,jul,fri,2,0,no
 3130,40-50,admin.,married,high.school,no,no,no,telephone,may,wed,2,0,no
 3131,40-50,blue-collar,single,basic.4y,no,yes,no,telephone,jun,tue,1,0,no
+3132,40-50,blue-collar,married,basic.6y,no,yes,no,cellular,may,thu,1,0,no
 3133,30-40,admin.,single,university.degree,no,no,no,telephone,may,fri,2,0,no
 3134,30-40,blue-collar,married,basic.6y,no,no,no,telephone,jun,mon,2,0,no
 3135,40-50,admin.,married,university.degree,no,no,no,telephone,may,fri,2,0,no
+3136,30-40,technician,married,high.school,no,yes,no,cellular,may,tue,1,0,no
 3137,40-50,blue-collar,married,professional.course,no,no,no,cellular,aug,thu,1,0,no
+3138,40-50,technician,married,professional.course,no,no,no,telephone,jun,thu,1,0,no
 3139,40-50,admin.,single,high.school,no,no,no,cellular,nov,wed,1,1,yes
 3140,18-30,student,single,high.school,no,no,no,telephone,may,fri,1,0,no
 3141,40-50,admin.,married,university.degree,unknown,no,no,telephone,may,tue,1,0,no
@@ -3105,6 +3173,7 @@
 3171,40-50,technician,married,professional.course,no,yes,no,cellular,aug,wed,1,0,no
 3172,50+,services,married,basic.9y,unknown,yes,no,cellular,aug,mon,2,0,no
 3173,50+,retired,married,basic.4y,unknown,yes,no,cellular,aug,thu,1,0,no
+3174,40-50,management,married,university.degree,no,yes,no,cellular,aug,thu,1,0,no
 3175,40-50,blue-collar,married,high.school,no,yes,no,cellular,nov,mon,2,0,no
 3176,50+,blue-collar,married,basic.4y,unknown,yes,no,telephone,jul,wed,1,0,no
 3177,30-40,housemaid,married,university.degree,no,yes,no,cellular,may,tue,1,0,no
@@ -3128,6 +3197,7 @@
 3195,30-40,blue-collar,married,basic.6y,no,yes,yes,telephone,jun,tue,1,0,no
 3196,30-40,management,married,high.school,no,yes,yes,telephone,jun,tue,2,0,no
 3197,18-30,admin.,single,university.degree,no,yes,no,cellular,jul,thu,2,0,no
+3198,30-40,admin.,single,university.degree,no,yes,no,cellular,nov,thu,2,0,no
 3199,18-30,technician,married,university.degree,no,yes,no,telephone,may,tue,2,0,yes
 3200,30-40,blue-collar,married,basic.9y,no,unknown,unknown,telephone,jun,tue,3,0,no
 3201,30-40,admin.,married,university.degree,unknown,no,no,telephone,may,thu,1,0,no
@@ -3140,6 +3210,7 @@
 3208,30-40,admin.,single,professional.course,no,yes,no,cellular,may,mon,1,0,yes
 3209,40-50,management,single,university.degree,no,yes,no,cellular,jul,mon,1,0,no
 3210,50+,retired,married,basic.4y,no,no,no,cellular,mar,fri,3,4,yes
+3211,40-50,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,tue,2,0,no
 3212,40-50,blue-collar,married,basic.6y,no,yes,yes,telephone,nov,tue,1,0,no
 3213,40-50,admin.,married,high.school,unknown,yes,no,cellular,aug,thu,1,0,no
 3214,40-50,management,married,high.school,unknown,no,yes,telephone,may,fri,3,0,no
@@ -3151,8 +3222,10 @@
 3220,18-30,student,single,high.school,no,yes,no,cellular,apr,thu,1,0,no
 3221,30-40,blue-collar,single,basic.4y,no,yes,no,cellular,jul,tue,12,0,no
 3222,30-40,blue-collar,married,high.school,no,no,no,cellular,jul,wed,2,0,no
+3223,30-40,blue-collar,married,basic.9y,no,yes,yes,telephone,may,wed,1,0,no
 3224,18-30,entrepreneur,married,high.school,no,yes,no,cellular,jul,fri,2,0,no
 3225,40-50,blue-collar,married,basic.4y,no,no,no,cellular,may,mon,7,1,no
+3226,30-40,admin.,married,high.school,no,yes,no,cellular,nov,tue,2,0,no
 3227,40-50,technician,married,university.degree,no,no,no,cellular,nov,fri,9,0,no
 3228,18-30,services,single,high.school,no,no,no,telephone,may,mon,1,0,no
 3229,40-50,blue-collar,married,basic.4y,no,yes,no,cellular,jul,mon,4,0,no
@@ -3161,6 +3234,7 @@
 3232,50+,entrepreneur,married,university.degree,no,yes,no,cellular,apr,thu,1,0,no
 3233,30-40,technician,married,university.degree,unknown,yes,no,cellular,aug,tue,1,0,no
 3234,18-30,blue-collar,single,basic.4y,unknown,yes,yes,telephone,may,thu,4,0,no
+3235,30-40,management,married,university.degree,no,no,no,telephone,jun,thu,1,0,no
 3236,40-50,blue-collar,married,basic.9y,unknown,yes,no,cellular,aug,mon,1,0,no
 3237,40-50,technician,married,high.school,no,yes,no,cellular,jul,tue,5,0,no
 3238,30-40,admin.,single,high.school,no,yes,no,cellular,apr,thu,1,1,yes
@@ -3198,6 +3272,7 @@
 3270,40-50,services,divorced,high.school,no,yes,yes,cellular,apr,tue,1,0,yes
 3271,30-40,technician,divorced,professional.course,no,yes,no,cellular,may,fri,2,0,yes
 3272,50+,self-employed,married,university.degree,no,yes,no,cellular,nov,tue,4,1,no
+3273,40-50,admin.,married,university.degree,no,yes,no,cellular,aug,wed,1,0,no
 3274,40-50,self-employed,single,university.degree,no,yes,no,telephone,may,wed,2,0,no
 3275,30-40,technician,single,university.degree,no,yes,no,cellular,may,tue,1,1,no
 3276,30-40,unknown,single,basic.4y,unknown,no,no,telephone,may,fri,4,0,no
@@ -3258,6 +3333,7 @@
 3331,50+,blue-collar,married,high.school,unknown,yes,yes,cellular,apr,mon,4,0,no
 3332,18-30,admin.,single,high.school,no,no,no,cellular,jul,fri,3,0,no
 3333,18-30,self-employed,single,university.degree,no,no,no,telephone,jun,mon,7,0,no
+3334,30-40,blue-collar,married,basic.9y,no,no,no,telephone,may,tue,1,0,no
 3335,30-40,admin.,married,university.degree,unknown,yes,yes,cellular,aug,thu,2,0,no
 3336,50+,management,married,basic.4y,unknown,yes,no,cellular,nov,tue,4,2,yes
 3337,50+,retired,married,basic.4y,no,no,yes,telephone,jul,thu,3,0,no
@@ -3278,6 +3354,7 @@
 3352,30-40,technician,married,professional.course,no,yes,yes,cellular,jul,mon,4,0,no
 3353,30-40,admin.,divorced,university.degree,no,yes,yes,cellular,aug,tue,2,0,no
 3354,50+,admin.,married,university.degree,no,no,no,cellular,may,thu,1,0,yes
+3355,18-30,student,single,basic.9y,no,yes,no,cellular,mar,tue,1,0,yes
 3356,40-50,blue-collar,married,high.school,no,yes,no,telephone,may,wed,1,0,no
 3357,30-40,admin.,single,university.degree,unknown,yes,no,cellular,aug,tue,1,0,no
 3358,40-50,housemaid,divorced,university.degree,no,no,no,telephone,may,tue,6,0,no
@@ -3296,6 +3373,7 @@
 3371,18-30,student,single,unknown,no,yes,no,cellular,apr,wed,1,0,no
 3372,50+,self-employed,divorced,high.school,unknown,no,no,telephone,jul,mon,4,0,no
 3373,40-50,technician,single,professional.course,no,no,no,cellular,aug,thu,1,0,no
+3374,30-40,blue-collar,married,high.school,no,no,no,cellular,jul,wed,2,0,no
 3375,40-50,technician,single,university.degree,no,yes,no,cellular,may,mon,2,0,no
 3376,18-30,admin.,single,university.degree,no,no,no,cellular,oct,mon,2,1,no
 3377,40-50,blue-collar,married,unknown,unknown,no,no,cellular,jul,wed,4,0,no
@@ -3318,6 +3396,7 @@
 3394,50+,admin.,married,unknown,no,yes,no,telephone,jun,tue,2,0,no
 3395,18-30,technician,single,professional.course,no,yes,no,cellular,apr,fri,2,1,no
 3396,30-40,technician,divorced,high.school,no,no,no,cellular,aug,fri,3,0,no
+3397,30-40,admin.,single,university.degree,no,yes,no,telephone,jun,tue,1,0,no
 3398,50+,blue-collar,married,basic.4y,no,no,no,cellular,aug,thu,9,0,no
 3399,30-40,blue-collar,married,basic.9y,no,no,yes,cellular,jul,fri,3,0,no
 3400,40-50,unemployed,married,university.degree,unknown,unknown,unknown,telephone,may,tue,2,0,no
@@ -3362,6 +3441,7 @@
 3439,40-50,self-employed,married,basic.9y,no,yes,no,telephone,jun,mon,4,0,no
 3440,30-40,technician,married,professional.course,no,yes,yes,cellular,jul,thu,3,0,no
 3441,40-50,admin.,divorced,high.school,no,no,no,telephone,may,mon,4,0,no
+3442,30-40,admin.,single,university.degree,no,yes,no,cellular,jul,thu,2,1,no
 3443,40-50,services,divorced,basic.9y,no,unknown,unknown,cellular,may,wed,1,0,no
 3444,50+,self-employed,married,basic.9y,no,no,no,cellular,aug,tue,13,0,no
 3445,30-40,admin.,married,university.degree,no,no,no,cellular,oct,fri,1,2,yes
@@ -3380,6 +3460,7 @@
 3458,50+,admin.,divorced,university.degree,no,yes,yes,telephone,may,thu,2,0,no
 3459,50+,housemaid,married,basic.6y,unknown,unknown,unknown,cellular,apr,mon,2,0,no
 3460,30-40,blue-collar,married,basic.4y,no,yes,yes,cellular,may,wed,4,0,no
+3461,30-40,technician,divorced,professional.course,no,no,no,telephone,may,wed,1,0,no
 3462,40-50,self-employed,married,basic.9y,no,yes,no,cellular,may,thu,3,1,yes
 3463,40-50,blue-collar,married,basic.4y,no,no,no,cellular,aug,tue,7,0,no
 3464,40-50,blue-collar,married,basic.4y,unknown,no,no,telephone,jun,wed,2,0,no
@@ -3406,6 +3487,7 @@
 3485,30-40,services,married,high.school,unknown,no,no,cellular,jul,mon,1,0,no
 3486,30-40,blue-collar,married,basic.4y,no,no,no,telephone,may,mon,2,0,no
 3487,30-40,services,married,basic.4y,no,no,yes,telephone,jun,thu,1,0,no
+3488,30-40,technician,married,university.degree,no,yes,no,cellular,aug,thu,1,0,no
 3489,30-40,technician,married,professional.course,no,no,no,cellular,apr,mon,3,1,no
 3490,30-40,blue-collar,married,basic.9y,no,yes,yes,cellular,jul,wed,3,0,no
 3491,40-50,blue-collar,married,basic.9y,no,yes,no,cellular,nov,thu,1,0,no
@@ -3451,6 +3533,7 @@
 3531,30-40,services,married,professional.course,no,yes,no,telephone,may,fri,1,0,no
 3532,50+,housemaid,married,basic.6y,no,yes,no,cellular,aug,fri,1,0,no
 3533,18-30,blue-collar,single,high.school,no,no,no,telephone,may,fri,4,0,no
+3534,18-30,admin.,single,university.degree,no,no,no,cellular,aug,thu,1,0,no
 3535,30-40,technician,divorced,professional.course,no,yes,no,telephone,may,wed,2,0,no
 3536,18-30,management,married,university.degree,no,yes,yes,cellular,nov,tue,1,0,no
 3537,50+,retired,married,basic.4y,no,no,no,cellular,nov,fri,2,1,no
@@ -3493,6 +3576,8 @@
 3574,30-40,technician,married,professional.course,no,yes,no,telephone,jul,mon,17,0,no
 3575,50+,technician,married,professional.course,no,yes,no,telephone,may,fri,2,0,no
 3576,50+,retired,married,basic.4y,no,no,no,cellular,oct,mon,1,0,no
+3577,30-40,admin.,married,university.degree,no,no,no,cellular,aug,wed,1,0,no
+3578,30-40,technician,married,professional.course,no,no,no,telephone,may,tue,1,0,no
 3579,30-40,unknown,single,high.school,unknown,yes,no,cellular,jul,thu,3,0,no
 3580,18-30,admin.,single,university.degree,no,no,no,telephone,aug,mon,1,1,yes
 3581,50+,retired,married,university.degree,no,no,no,cellular,nov,mon,1,0,no
@@ -3543,11 +3628,13 @@
 3626,50+,technician,married,professional.course,no,yes,yes,cellular,aug,thu,3,0,no
 3627,40-50,services,divorced,basic.9y,no,yes,no,telephone,jun,thu,1,0,no
 3628,40-50,blue-collar,married,basic.9y,unknown,yes,no,telephone,may,tue,1,0,no
+3629,30-40,services,married,high.school,no,no,no,telephone,may,thu,1,0,no
 3630,30-40,technician,single,professional.course,unknown,unknown,unknown,telephone,jun,mon,4,0,no
 3631,40-50,services,married,high.school,no,yes,no,cellular,aug,tue,3,0,no
 3632,30-40,technician,divorced,professional.course,no,no,no,telephone,may,wed,4,0,no
 3633,50+,retired,divorced,professional.course,no,yes,no,cellular,oct,tue,2,0,yes
 3634,40-50,blue-collar,married,basic.9y,no,yes,no,cellular,apr,fri,1,1,no
+3635,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,tue,2,0,no
 3636,18-30,admin.,single,university.degree,no,no,no,cellular,may,tue,6,1,no
 3637,30-40,admin.,married,university.degree,no,yes,no,cellular,may,tue,1,0,yes
 3638,30-40,admin.,single,university.degree,no,yes,no,cellular,aug,fri,7,0,no
@@ -3576,6 +3663,7 @@
 3661,30-40,admin.,married,university.degree,no,yes,no,cellular,nov,mon,1,0,no
 3662,40-50,admin.,single,high.school,no,no,no,cellular,aug,thu,2,4,no
 3663,40-50,blue-collar,married,unknown,unknown,yes,no,cellular,aug,thu,3,0,no
+3664,30-40,admin.,single,high.school,no,yes,no,cellular,aug,tue,1,0,no
 3665,50+,admin.,married,university.degree,no,no,no,cellular,nov,tue,2,1,no
 3666,30-40,blue-collar,single,unknown,no,yes,no,telephone,oct,tue,1,1,no
 3667,50+,admin.,married,high.school,no,no,no,cellular,aug,thu,1,0,no
@@ -3638,11 +3726,13 @@
 3724,50+,technician,married,university.degree,no,yes,no,cellular,aug,thu,2,0,no
 3725,30-40,housemaid,married,basic.6y,unknown,no,no,telephone,jun,thu,1,0,no
 3726,50+,housemaid,married,professional.course,no,yes,no,telephone,jun,mon,4,0,no
+3727,30-40,technician,married,professional.course,no,no,no,cellular,may,fri,2,1,no
 3728,40-50,admin.,married,high.school,no,no,no,cellular,apr,thu,1,0,no
 3729,50+,retired,divorced,professional.course,no,no,no,telephone,jun,wed,1,0,no
 3730,18-30,technician,single,professional.course,no,no,no,cellular,nov,thu,1,0,no
 3731,50+,management,married,university.degree,no,yes,no,cellular,jul,wed,3,0,no
 3732,40-50,self-employed,married,university.degree,no,yes,no,cellular,nov,tue,2,1,no
+3733,18-30,services,married,high.school,no,no,no,cellular,jul,tue,1,0,no
 3734,30-40,admin.,married,university.degree,no,yes,no,cellular,nov,mon,2,0,no
 3735,30-40,technician,married,basic.9y,no,no,no,telephone,nov,wed,1,0,no
 3736,18-30,technician,married,university.degree,no,yes,no,cellular,may,thu,1,0,no
@@ -3662,6 +3752,7 @@
 3750,18-30,blue-collar,single,high.school,unknown,no,no,cellular,may,mon,2,0,no
 3751,50+,services,married,high.school,no,yes,no,telephone,jun,tue,5,0,no
 3752,18-30,admin.,single,basic.9y,unknown,yes,no,telephone,may,wed,2,0,no
+3753,30-40,admin.,married,high.school,no,no,no,telephone,may,wed,2,0,no
 3754,40-50,blue-collar,married,basic.4y,unknown,no,yes,telephone,jun,thu,1,0,no
 3755,40-50,technician,married,professional.course,unknown,no,yes,telephone,may,fri,4,0,no
 3756,30-40,blue-collar,married,basic.9y,no,yes,no,cellular,nov,tue,1,2,no
@@ -3669,9 +3760,11 @@
 3758,50+,technician,married,university.degree,no,no,yes,telephone,jun,mon,1,0,no
 3759,30-40,unemployed,married,high.school,unknown,yes,no,cellular,jul,wed,9,0,no
 3760,50+,technician,divorced,professional.course,no,no,yes,cellular,aug,fri,3,0,no
+3761,50+,blue-collar,married,basic.4y,no,yes,no,cellular,aug,tue,1,0,no
 3762,30-40,services,married,basic.9y,no,yes,no,cellular,jul,wed,1,0,yes
 3763,40-50,technician,married,professional.course,unknown,no,no,cellular,aug,tue,2,0,no
 3764,18-30,blue-collar,married,basic.9y,no,no,yes,cellular,jul,wed,6,0,no
+3765,30-40,technician,single,professional.course,no,yes,no,cellular,aug,wed,1,0,no
 3766,40-50,entrepreneur,single,university.degree,no,no,no,cellular,apr,mon,3,1,no
 3767,18-30,blue-collar,single,unknown,no,no,no,cellular,jul,tue,17,0,no
 3768,30-40,technician,married,university.degree,no,no,yes,cellular,aug,tue,2,0,no
@@ -3712,6 +3805,7 @@
 3803,40-50,services,single,high.school,no,yes,no,cellular,apr,fri,2,1,no
 3804,30-40,technician,married,professional.course,no,no,no,telephone,jun,thu,2,0,no
 3805,30-40,blue-collar,single,basic.9y,no,no,no,cellular,nov,wed,1,1,no
+3806,30-40,technician,married,professional.course,no,no,no,telephone,jun,thu,1,0,no
 3807,30-40,student,single,university.degree,no,no,no,telephone,may,thu,4,0,no
 3808,50+,technician,single,professional.course,no,yes,no,cellular,nov,wed,3,0,yes
 3809,40-50,technician,divorced,professional.course,no,no,no,telephone,jun,thu,1,0,no
@@ -3741,6 +3835,7 @@
 3833,30-40,technician,divorced,unknown,no,yes,no,cellular,jul,thu,6,0,no
 3834,30-40,admin.,married,university.degree,no,no,no,cellular,jul,tue,2,0,no
 3835,50+,management,divorced,university.degree,no,no,no,telephone,jun,mon,4,0,no
+3836,30-40,management,married,university.degree,no,yes,no,cellular,nov,wed,1,0,no
 3837,18-30,blue-collar,married,basic.6y,unknown,yes,no,telephone,jun,mon,5,0,no
 3838,50+,technician,married,university.degree,unknown,no,no,telephone,jun,fri,3,0,no
 3839,30-40,admin.,married,high.school,no,unknown,unknown,cellular,nov,thu,1,0,no
@@ -3749,6 +3844,8 @@
 3842,30-40,technician,married,professional.course,no,no,no,cellular,jun,tue,2,0,no
 3843,30-40,blue-collar,divorced,basic.6y,unknown,yes,no,telephone,may,thu,1,0,no
 3844,40-50,blue-collar,married,basic.4y,no,no,no,telephone,jun,fri,1,0,no
+3845,30-40,management,married,university.degree,no,yes,yes,cellular,jul,thu,2,0,no
+3846,30-40,admin.,married,basic.9y,no,no,no,telephone,may,tue,1,0,no
 3847,30-40,blue-collar,married,basic.9y,no,no,no,telephone,jun,fri,1,0,no
 3848,18-30,management,married,university.degree,no,no,no,cellular,nov,fri,4,0,no
 3849,50+,management,married,university.degree,no,yes,no,cellular,aug,wed,2,0,no
@@ -3770,9 +3867,11 @@
 3865,40-50,admin.,married,university.degree,no,no,no,cellular,apr,tue,1,0,yes
 3866,30-40,technician,divorced,professional.course,no,yes,no,cellular,aug,fri,1,0,no
 3867,30-40,admin.,single,university.degree,no,yes,no,telephone,jun,thu,3,0,no
+3868,30-40,admin.,single,university.degree,no,yes,no,cellular,may,thu,1,0,no
 3869,18-30,services,married,professional.course,no,no,no,telephone,may,tue,2,0,no
 3870,40-50,blue-collar,married,basic.9y,no,yes,no,cellular,may,thu,1,0,no
 3871,30-40,admin.,married,high.school,no,no,no,cellular,aug,mon,2,0,no
+3872,30-40,technician,married,university.degree,no,yes,no,cellular,may,wed,1,0,no
 3873,40-50,entrepreneur,married,basic.9y,no,no,no,cellular,nov,tue,1,0,no
 3874,50+,technician,married,university.degree,no,yes,no,telephone,may,wed,1,0,no
 3875,50+,retired,divorced,basic.4y,no,no,no,cellular,aug,mon,1,0,no
@@ -3802,12 +3901,14 @@
 3899,40-50,services,married,high.school,no,no,no,cellular,apr,mon,4,0,no
 3900,40-50,blue-collar,married,basic.4y,unknown,yes,no,telephone,may,mon,5,0,no
 3901,30-40,blue-collar,married,basic.6y,no,yes,yes,telephone,jun,thu,1,0,no
+3902,30-40,blue-collar,married,basic.9y,no,no,no,cellular,may,tue,3,0,no
 3903,18-30,blue-collar,single,high.school,no,no,no,telephone,nov,fri,1,0,no
 3904,30-40,blue-collar,married,basic.4y,no,no,no,telephone,jul,mon,4,0,no
 3905,18-30,technician,divorced,high.school,no,yes,yes,telephone,jun,tue,2,0,no
 3906,18-30,technician,single,professional.course,no,no,no,cellular,jul,thu,1,0,no
 3907,30-40,technician,married,professional.course,no,yes,no,cellular,aug,fri,3,0,no
 3908,40-50,technician,married,university.degree,no,yes,no,telephone,may,fri,1,0,no
+3909,40-50,management,married,university.degree,no,yes,no,telephone,may,wed,2,0,no
 3910,30-40,housemaid,married,basic.4y,no,no,no,cellular,aug,fri,5,0,no
 3911,18-30,admin.,single,university.degree,no,yes,no,telephone,jul,wed,6,0,no
 3912,40-50,blue-collar,married,basic.6y,unknown,yes,no,telephone,may,fri,6,0,no
@@ -3827,11 +3928,13 @@
 3926,40-50,retired,divorced,illiterate,no,no,no,cellular,aug,wed,4,0,no
 3927,18-30,entrepreneur,single,university.degree,no,no,no,cellular,apr,fri,2,0,no
 3928,50+,admin.,married,basic.6y,unknown,yes,no,telephone,may,tue,1,0,no
+3929,30-40,admin.,single,university.degree,no,yes,no,cellular,jul,mon,2,0,no
 3930,40-50,entrepreneur,married,high.school,no,no,no,cellular,nov,mon,1,1,no
 3931,40-50,admin.,married,university.degree,no,no,no,cellular,aug,thu,13,0,no
 3932,40-50,technician,divorced,professional.course,no,yes,no,cellular,jul,tue,2,0,no
 3933,50+,unknown,married,basic.4y,no,yes,yes,cellular,may,thu,2,0,no
 3934,30-40,admin.,married,university.degree,no,unknown,unknown,cellular,apr,fri,2,1,no
+3935,40-50,technician,married,professional.course,no,yes,no,telephone,may,tue,1,0,no
 3936,40-50,admin.,married,university.degree,no,no,no,cellular,aug,wed,6,0,no
 3937,18-30,student,single,university.degree,no,no,no,cellular,aug,thu,1,0,yes
 3938,50+,technician,married,university.degree,unknown,yes,no,cellular,jul,thu,1,0,no
@@ -3852,6 +3955,7 @@
 3953,50+,technician,married,basic.9y,no,yes,no,telephone,may,thu,2,0,no
 3954,18-30,admin.,single,university.degree,no,yes,no,cellular,may,thu,2,0,no
 3955,50+,management,married,basic.6y,no,yes,no,cellular,nov,wed,3,1,no
+3956,50+,retired,married,basic.4y,no,no,no,cellular,jul,tue,1,0,no
 3957,18-30,blue-collar,married,basic.9y,no,no,yes,telephone,may,fri,2,0,no
 3958,30-40,technician,single,professional.course,no,yes,no,telephone,aug,fri,2,1,no
 3959,40-50,technician,married,university.degree,unknown,yes,no,cellular,aug,thu,2,0,no
@@ -3882,6 +3986,7 @@
 3984,30-40,technician,married,university.degree,no,yes,no,telephone,may,thu,1,0,no
 3985,50+,admin.,married,university.degree,no,no,yes,cellular,jul,fri,1,0,no
 3986,18-30,blue-collar,single,basic.9y,no,yes,yes,telephone,may,mon,4,0,no
+3987,30-40,admin.,married,basic.9y,no,no,no,telephone,may,tue,1,0,no
 3988,30-40,admin.,married,university.degree,no,yes,no,cellular,may,fri,1,0,no
 3989,18-30,admin.,single,university.degree,no,yes,no,cellular,jul,tue,3,0,no
 3990,40-50,blue-collar,married,basic.4y,no,no,no,cellular,nov,wed,2,0,no
@@ -3894,6 +3999,7 @@
 3997,50+,services,married,high.school,no,no,yes,cellular,jul,fri,4,0,no
 3998,50+,retired,married,high.school,no,unknown,unknown,cellular,mar,tue,3,1,yes
 3999,18-30,services,single,high.school,no,yes,yes,cellular,may,mon,1,0,no
+4000,30-40,admin.,married,university.degree,no,yes,no,telephone,may,fri,1,0,no
 4001,30-40,technician,single,high.school,no,yes,yes,cellular,aug,tue,1,0,no
 4002,30-40,blue-collar,married,basic.6y,no,yes,yes,cellular,may,thu,1,1,no
 4003,18-30,technician,single,high.school,no,no,no,cellular,jul,wed,2,0,no
@@ -3956,6 +4062,7 @@
 4060,30-40,admin.,single,university.degree,no,yes,yes,telephone,may,mon,2,0,no
 4061,50+,self-employed,married,basic.4y,no,yes,no,telephone,apr,mon,3,1,no
 4062,30-40,unemployed,divorced,university.degree,no,yes,yes,cellular,jul,wed,7,0,no
+4063,50+,housemaid,married,basic.4y,no,no,no,cellular,jun,mon,2,0,no
 4064,50+,technician,married,university.degree,no,yes,no,cellular,aug,tue,8,0,no
 4065,50+,services,married,high.school,unknown,yes,no,telephone,jun,mon,2,0,no
 4066,50+,retired,married,basic.4y,no,yes,no,cellular,oct,wed,1,2,yes
@@ -3965,6 +4072,7 @@
 4070,50+,management,divorced,university.degree,unknown,no,no,cellular,nov,fri,2,0,no
 4071,50+,retired,married,basic.4y,unknown,no,no,cellular,oct,thu,1,3,no
 4072,30-40,blue-collar,married,professional.course,no,yes,no,cellular,may,fri,1,1,no
+4073,30-40,admin.,married,university.degree,no,yes,no,telephone,may,thu,2,0,no
 4074,40-50,admin.,married,university.degree,no,no,no,cellular,nov,thu,1,1,no
 4075,30-40,services,married,high.school,no,yes,no,telephone,jun,fri,2,0,no
 4076,50+,retired,married,basic.4y,unknown,yes,no,cellular,jun,mon,3,0,no
@@ -4004,6 +4112,7 @@
 4110,50+,housemaid,divorced,basic.6y,unknown,unknown,unknown,telephone,may,fri,2,0,no
 4111,18-30,technician,married,university.degree,no,no,yes,cellular,jun,fri,1,1,no
 4112,30-40,technician,single,professional.course,no,yes,no,cellular,nov,thu,1,0,no
+4113,30-40,admin.,single,university.degree,no,yes,no,cellular,nov,thu,1,0,no
 4114,18-30,admin.,married,basic.6y,no,yes,yes,cellular,jul,thu,1,0,no
 4115,30-40,admin.,married,high.school,no,yes,no,telephone,jul,fri,1,0,no
 4116,18-30,student,single,high.school,no,no,no,cellular,may,mon,2,1,no
