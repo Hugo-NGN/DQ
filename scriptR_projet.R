@@ -1,12 +1,24 @@
 library(FactoMineR)
 library(factoextra)
 library(vcd)
+library(MASS)
+library(ggrepel)
 library(rcompanion)
-data_path <- paste(getwd(), "/data/bank-prepocessed-cleaned.csv",sep='')
+
+#data_path <- paste(getwd(), "/data/bank-prepocessed-cleaned.csv",sep='')
+data_path <- "./data/bank-preprocessed3-withoutUnknown.csv"
+#data_path <- "./data/bank-preprocessed3.csv"
+
 data <- read.csv(file = data_path, sep = ',')
 data['X'] <- NULL
 # Check the structure of the data
 str(data)
+
+for (col in names(data)) {
+  if (is.character(data[[col]])) {
+    data[[col]] <- as.factor(data[[col]])
+  }
+}
 
 ################################  CRAMER  ####################################
 cat_cols <- names(data)[sapply(data, is.factor)]
@@ -53,6 +65,47 @@ if (any(sapply(data, function(x) any(is.na(x))))) {
 acm_result <- MCA(data, quali.sup = quali_sup_index, graph = TRUE)
 
 
+
+#### Projection des individus
+ind_coords <- data.frame(acm_result$ind$coord)
+ind_coords$y <- as.factor(data$y)  # Convertir la variable en facteur si ce n'est pas déjà le cas
+
+# Visualisation avec ggplot2
+ggplot(ind_coords, aes(x = Dim.1, y = Dim.2, color = data$y)) +
+  geom_point(alpha = 0.5) +  # Ajouter des points colorés par y
+  theme_minimal() +
+  labs(title = "acm Factor Map",
+       x = paste0("Dim 1 (", round(acm_result$eig[1,2], 2), "%)"),
+       y = paste0("Dim 2 (", round(acm_result$eig[2,2], 2), "%)")) +
+  scale_color_manual(values = c("blue", "red")) 
+
+
+#### Projection des variables (modalitées)
+var_coords <- data.frame(acm_result$var$coord)
+var_coords$Type <- "Active"
+var_coords$variable <- rownames(var_coords)
+
+sup_coords <- data.frame(acm_result$quali.sup$coord)
+sup_coords$Type <- "Supplémentaire"
+sup_coords$variable <- rownames(sup_coords)
+
+# Fusionner les deux jeux de données
+all_coords <- rbind(var_coords, sup_coords)
+
+# Visualisation améliorée
+ggplot(all_coords, aes(x = Dim.1, y = Dim.2, label = variable, color = Type)) +
+  geom_point(size = 3, alpha = 0.7) +  # Augmenter la taille des points et ajouter de la transparence
+  geom_text_repel(size = 5, max.overlaps = 20) +  # Éviter le chevauchement des labels
+  theme_minimal(base_size = 14) +  # Augmenter la taille de police générale
+  scale_color_manual(values = c("Active" = "red", "Supplémentaire" = "blue")) +
+  labs(title = "Projection des variables dans le plan principal",
+       x = paste0("Dim 1 (", round(acm_result$eig[1,2], 2), "%)"),
+       y = paste0("Dim 2 (", round(acm_result$eig[2,2], 2), "%)")) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "gray") +
+  geom_vline(xintercept = 0, linetype = "dashed", color = "gray") +
+  theme(legend.position = "bottom") 
+
+
 ############################  C  A  H  ####################################
 
 # Get individual coordinates
@@ -74,10 +127,28 @@ clusters <- cutree(cah_result, k = nb_clusters)
 # Add clusters to the dataset
 data$cluster <- as.factor(clusters)
 
-# Visualization of clusters
-fviz_cluster(list(data = ind_coords, cluster = clusters))
 
-table(clusters, data$y)
+#fviz_cluster(list(data = ind_coords, cluster = clusters))
+
+y <- data$y
+
+data_projection <- data.frame(ind_coords, cluster = as.factor(clusters), y = as.factor(y))
+
+
+colnames(data_projection) <- c("Dim 1", "Dim 2", "Dim 3", "Dim 4", "Dim 5", "cluster")
+
+ggplot(data_projection, aes(x = `Dim 1`, y = `Dim 2`, color = cluster, shape = y)) +
+  geom_point(size = 3) +  
+  labs(title = "Visualisation des clusters (et des modalités)",
+       x = "Composante 1",
+       y = "Composante 2",
+       color = "Cluster",
+       shape = "Y") +
+  theme_minimal() +
+  scale_shape_manual(values = c(16, 17, 15, 18))  
+
+
+table(data$y, clusters)
 
 
 ##########################  A. DISCRI  ####################################
@@ -104,7 +175,7 @@ ggplot(data_lda, aes(x = lda1, fill = cluster)) +
   theme_minimal()
 
 # Confusion matrix
-table(lda_pred$class, data$y)
+table(data$y, lda_pred$class)
 
 
 ############################### Q D A  #########################################
@@ -128,4 +199,4 @@ ggplot(data_qda, aes(x = qda1, fill = cluster)) +
   theme_minimal()
 
 # Matrice de confusion
-table(qda_pred$class, data$y)
+table(data$y, qda_pred$class)
